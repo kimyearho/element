@@ -1,4 +1,4 @@
 export * from './element-ui'
 
-import * as ElementUI from './element-ui'
-export default ElementUI
+import * as kstory8715_ElementUI from './element-ui'
+export default kstory8715_ElementUI
