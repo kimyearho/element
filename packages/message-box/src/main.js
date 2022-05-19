@@ -5,6 +5,7 @@ const defaults = {
   iconClass: '',
   showInput: false,
   showClose: true,
+  orderButton: false,
   modalFade: true,
   lockScroll: true,
   closeOnClickModal: true,
